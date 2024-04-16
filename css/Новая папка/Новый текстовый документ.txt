@@ -1,0 +1,352 @@
+/* @media (max-width: 450px) {
+      .org1 {
+            width: 320px;
+      }
+      header {
+            width: 10px;
+            margin: 0;
+      }
+
+      .button-1 {
+            width: 300px;
+            height: 56px;
+            position: relative;
+            left: -40px;
+            top: 250px;
+            padding-left: 0px;
+            text-align: center;
+            font-size: 16px;
+      }
+
+      .text-2 {
+            position: relative;
+            top: -100px;
+      }
+
+      .img_foR_header {
+            display: none;
+      }
+
+
+      header {
+            width: 320px;
+            margin-left: 30px;
+      }
+
+      body {
+            width: 375px;
+      }
+
+
+
+      .conteaner_for_many_text_header {
+            display: none;
+      }
+
+      .img_for_text_bottom_header {
+            display: none;
+      }
+
+
+
+      .conteaner_for_four_text_information {
+            flex-wrap: wrap;
+            text-align: center;
+      }
+
+      .g_text_informationn {
+            text-align: left;
+            width: 200px;
+      }
+
+      .g_text_information {
+            text-align: left;
+            width: 200px;
+            margin-left: 40px;
+      }
+
+      #img_for_buy {
+            width: 163px;
+            height: 201px;
+      }
+
+      .conteaner_for_two_images {
+            display: flex;
+            margin-left: -20px;
+      }
+
+      #conteaner_for_buy_and_information {
+            margin-left: -10px;
+      }
+
+      .two_text_information {
+            text-align: left;
+      }
+
+      .img_information {
+            margin-left: -240px;
+
+      }
+
+      .text_information-1 {
+            margin-left: 20px;
+            margin-top: -20px;
+      }
+
+      .text_information-2 {
+            margin-top: 40px;
+      }
+
+      .text_information-3 {
+            margin-top: 40px;
+      }
+
+      .text_information-4 {
+            margin-top: 40px;
+      }
+
+      .photo_for_buy_table_people1 {
+            width: 163px;
+            height: 201px;
+      }
+
+      .photo_for_buy_table_people {
+            width: 163px;
+            height: 201px;
+      }
+
+      .conteaner_for_buy_table {
+            flex-wrap: wrap;
+            margin-left: 7px;
+      }
+
+      .button_for_buy {
+            width: 83%;
+            height: 56px;
+            margin: 30px 5vw 0 8vw;
+            font-size: 20px;
+      }
+
+      .people {
+            font-size: 20px;
+      }
+
+      .bigg_table {
+            display: none;
+      }
+
+      .photo_for_buy_table_people2 {
+            width: 153px;
+            height: 201px;
+      }
+
+      .conteaner_for_text_bottom_header {
+            height: 584px;
+            margin-left: -13px;
+      }
+
+      .org1 {
+            border: 1px solid #00000011;
+            margin: 20px 12vw 0 7vw;
+      }
+
+      .avion {
+            margin: 0 0 0 -20vw;
+      }
+
+
+
+      .conteaner_for_text_bottom_header {
+            width: 20%;
+      }
+
+      .text-1 {
+            width: 270px;
+      }
+
+      .button-1 {
+            margin-left: 20px;
+      }
+
+      .text-2 {
+            width: 270px;
+            margin-top: 100px;
+            text-align: left;
+      }
+
+      .conteaner_for_circle {
+            margin-top: 50px;
+      }
+
+      .people {
+            font-size: 25px;
+            margin-left: 6vw;
+      }
+
+      .right_img_for_big_table {
+            margin-left: -4vw;
+      }
+
+      .two_right_img_for_big_table {
+            margin-left: -2vw;
+      }
+
+      .input1 {
+            width: 180px;
+            height: 45px;
+      }
+
+      .button_for_input1 {
+            width: 90px;
+            height: 45px;
+      }
+
+      .conteaner_for_input_and_button_main {
+            width: 290px;
+            display: flex;
+            margin-left: 30px;
+            margin-top: -140px;
+      }
+
+      .conteaner_for_input {
+            margin-left: 0px;
+            margin-top: -100px;
+            width: 340px;
+      }
+
+      .text_2 {
+            margin-left: 25px;
+            width: 300px;
+            font-size: 16px;
+            text-align: left;
+            margin-left: 40px;
+      }
+
+      .conteaner_for_conteaner_input {
+            width: 340px;
+            height: 365px;
+      }
+
+      .text_1 {
+            margin-left: 20px;
+            width: 300px;
+            font-size: 20px;
+      }
+
+      .conteaner_for_many_text_top_footer {
+            flex-wrap: wrap;
+      }
+
+      .conteaner_for_many_text_top_footer_ {
+            margin-left: 50px;
+            width: 300px;
+            text-align: center;
+      }
+
+      .text_London {
+            text-align: center;
+      }
+
+      .text_for_buy_and_information {
+            width: 300px;
+            text-align: center;
+      }
+
+      .many_wonderfull_images {
+            width: 406px;
+            height: 300px;
+            margin-top: 50px;
+      }
+
+      .miny_conteaner_footer_one {
+            flex-wrap: wrap;
+            display: none;
+      }
+
+      .conteaner_for_three_element_footer {
+            flex-wrap: wrap;
+      }
+
+      .first_conteaner_footer {
+            flex-wrap: wrap;
+      }
+
+      .conteaner_for_input_and_button_footer {
+            margin-left: -650px;
+            display: flex;
+            width: 652px;
+      }
+
+      footer {
+            width: 360px;
+      }
+
+      .input2 {
+            width: 170px;
+            height: 50px;
+            margin-left: 650;
+      }
+
+      .text_for_top_input_and_button {
+            font-family: 'Noto Sans';
+            font-size: 20px;
+            font-weight: 400;
+            line-height: 20px;
+            text-align: left;
+            color: #ffffff;
+            margin-left: 0;
+            margin-top: 50px;
+            margin-left: 20px;
+      }
+
+      body {
+            width: 350px;
+      }
+
+      .conteaner_for_input {
+            margin: 20px 0 20px 0;
+      }
+
+      .conteaner_for_bottom_header {
+            width: 310px;
+            margin-left: 10px;
+      }
+
+      .conteaner_for_text_bottom_header {
+            width: 340px;
+      }
+
+      .conteaner_for_input_and_button_main {
+            margin-top: -130px;
+      }
+
+      .table_ {
+            margin-left: 20px;
+            margin-bottom: 20px;
+      }
+
+      .text_for_buy_table {
+            margin-left: 20px;
+      }
+
+      .text_London {
+            text-align: left;
+      }
+
+      .text_for_buy_and_information {
+            text-align: left;
+      }
+
+      .button_for_buy2 {
+            width: 322px;
+            font-size: 16px;
+      }
+
+      .button_for_input2 {
+            height: 51px;
+      }
+
+      #body {
+            width: 270px;
+      }
+} */
